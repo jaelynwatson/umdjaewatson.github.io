@@ -1,0 +1,54 @@
+/*font-family: 'Libre Baskerville', serif;
+font-family: 'Fira Sans', sans-serif; font-family: 'Sansita', sans-serif;*/
+
+/*For Desktop Only*/
+html{
+	background-color: #FF7F4F;
+}
+.navbar{
+	font-family: 'Sansita', sans-serif;
+	font-weight: 800;
+	width: auto;
+	height: auto;
+	padding: 50px 50px 50px 50px;
+	background-color: #ff7150;
+	background-size: 200px;
+	font-size: 35px;
+	display: inline;
+	letter-spacing: 5px;
+	color: #FFDAB9;
+}
+header{
+	text-align: center;
+	padding-top: 15px;
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 45px;
+	color: #FFCBA4;
+}
+img{
+	padding-left: 15px;
+	border: 5px solid;
+	border-radius: 10px;
+	border-color: white;
+	width: 400px;
+	height: 400px;
+	align-content: center;
+	margin-right: 50%;
+}
+.center{
+	display: block;
+	margin-right: 50%;
+}
+p{
+	text-align: left;
+	font-family: 'Fira Sans', sans-serif;
+	border: solid;
+	border-color: #F2A580;
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width:600px;) {
+	img{
+	margin-right: 50%;
+	border-radius: 5px;
+	}
+}

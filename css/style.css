@@ -1,0 +1,96 @@
+/*font-family: 'Libre Baskerville', serif;
+font-family: 'Fira Sans', sans-serif; font-family: 'Sansita', sans-serif;*/
+/*For Desktop Only*/
+p{
+	color: white;
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 35px;
+	text-align: center;
+}
+
+html{
+	background-color: #FFEFD5;
+}
+.navbar{
+	font-family: 'Sansita', sans-serif;
+	font-weight: 800;
+	width: auto;
+	height: auto;
+	padding: 50px 50px 50px 50px;
+	background-color: #ff7150;
+	background-size: 200px;
+	font-size: 35px;
+	display: inline;
+	letter-spacing: 5px;
+	color: #FFDAB9;
+}
+.aboutme{
+	font-size: 35px;
+	text-align: center;
+	background-color: #FFDAB9;
+	font-family: 'Fira Sans', sans-serif;
+	font-style: italic;
+	color: #FF7150;
+	text-align: center;
+	padding: 15px 15px 15px 15px;
+}
+h1{
+	text-align: center;
+	font-family: 'Fira Sans', sans-serif;
+	font-weight: bold;
+	color: white;
+}
+.social{
+	background-color: #FFDAB9;
+	padding-top: 20px;
+}
+h3{
+	font-family: 'Fira Sans', sans-serif;
+	font-weight: bold;
+	font-size: 35px;
+	color: white;
+	text-align: center;
+}
+.fa {
+  padding: 75px;
+ margin-right: 210px;
+  width: 200px;
+  max-height: 200px;
+  }
+
+img{
+	border-radius: 20px;
+	height: 400px;
+	width: auto;
+	background-color: white;
+	align-content: center;
+}
+.Greatest{
+	background-color: #ff7150;
+}
+
+h2{
+	text-align: center;
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #FFDAB9;
+	padding: 15px 15px 15px 15px;
+}
+h4{
+	text-align: center;
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 35px;
+	color: white;
+	padding-top: 15px;
+}
+.myForm{
+	align-content: center;
+	text-indent: 50%;
+}
+/*For Mobile phones*/
+@media only screen and (min-width:600px;){.fa{
+	width: 150px;
+	height: 150px;
+	}
+}

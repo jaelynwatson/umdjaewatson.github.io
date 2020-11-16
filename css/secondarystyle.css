@@ -1,0 +1,41 @@
+/*font-family: 'Libre Baskerville', serif;
+font-family: 'Fira Sans', sans-serif; font-family: 'Sansita', sans-serif;*/
+body{
+	border-style: double;
+	border-width: 15px;
+	border-color: #F6C3AB
+}
+.navbar{
+	font-family: 'Sansita', sans-serif;
+	font-weight: 800;
+	width: auto;
+	height: auto;
+	padding: 50px 50px 50px 50px;
+	background-color: #ff7150;
+	background-size: 200px;
+	font-size: 35px;
+	display: inline;
+	letter-spacing: 5px;
+	color: #FFDAB9;
+}
+header{
+	text-align: center;
+	font-family: 'Libre Baskerville', serif;
+	padding-top: 15px;
+	font-size: 50px;
+	color: #F2A580;
+}
+h1{
+	font-family: 'Fira Sans', sans-serif;
+	font-weight: 700;
+	font-size: 75px;
+	text-align: center;
+	color: #FF7F4F;
+}
+
+li{
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 25px;
+	text-align: center;
+	color: #F2A580;
+}
